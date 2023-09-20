@@ -1,0 +1,45 @@
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\bin\Debug\net6.0\Assembler.exe
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\bin\Debug\net6.0\Assembler.deps.json
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\bin\Debug\net6.0\Assembler.runtimeconfig.json
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\bin\Debug\net6.0\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\bin\Debug\net6.0\Assembler.pdb
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\Assembler.csproj.AssemblyReference.cache
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\Assembler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\Assembler.AssemblyInfoInputs.cache
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\Assembler.AssemblyInfo.cs
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\refint\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\Assembler.pdb
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\Assembler.genruntimeconfig.cache
+C:\Users\Benjamin Roesdal\source\repos\Assembler\Assembler\obj\Debug\net6.0\ref\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\bin\Debug\net6.0\Assembler.exe
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\bin\Debug\net6.0\Assembler.deps.json
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\bin\Debug\net6.0\Assembler.runtimeconfig.json
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\bin\Debug\net6.0\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\bin\Debug\net6.0\Assembler.pdb
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\Assembler.csproj.AssemblyReference.cache
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\Assembler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\Assembler.AssemblyInfoInputs.cache
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\Assembler.AssemblyInfo.cs
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\refint\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\Assembler.pdb
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\Assembler.genruntimeconfig.cache
+C:\Users\Benjamin Roesdal\source\repos\Assembler - Copy\Assembler\obj\Debug\net6.0\ref\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\bin\Debug\net6.0\Assembler.exe
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\bin\Debug\net6.0\Assembler.deps.json
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\bin\Debug\net6.0\Assembler.runtimeconfig.json
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\bin\Debug\net6.0\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\bin\Debug\net6.0\Assembler.pdb
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\Assembler.csproj.AssemblyReference.cache
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\Assembler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\Assembler.AssemblyInfoInputs.cache
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\Assembler.AssemblyInfo.cs
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\refint\Assembler.dll
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\Assembler.pdb
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\Assembler.genruntimeconfig.cache
+C:\Users\Benjamin Roesdal\source\repos\AssemblerProj\Assembler\obj\Debug\net6.0\ref\Assembler.dll
